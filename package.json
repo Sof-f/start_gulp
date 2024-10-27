@@ -9,7 +9,9 @@
   "author": "Sof",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "sass": "^1.80.4"
   },
   "dependencies": {
     "gulp-sass": "^5.1.0"
